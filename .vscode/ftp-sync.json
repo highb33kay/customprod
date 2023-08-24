@@ -1,0 +1,25 @@
+{
+    "remotePath": "./",
+    "host": "premium234.web-hosting.com",
+    "username": "test@anchorpsychological.org",
+    "password": "VDC3zk8j[{yw",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [],
+        "path": ""
+    },
+    "detailedSyncSummary": true
+}
