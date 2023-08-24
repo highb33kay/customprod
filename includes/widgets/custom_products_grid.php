@@ -103,9 +103,9 @@ class Custom_Products extends Widget_Base
 				echo '</div>';
 
 				// Second toggle switch
-				echo '<div class="price-switch">';
-				echo '<input type="range" class="slider" min="1" max="3">';
-				echo '</div>';
+				// echo '<div class="price-switch">';
+				// echo '<input type="range" class="slider" min="1" max="3">';
+				// echo '</div>';
 
 				// Price options
 				echo '<div class="price-options">';
